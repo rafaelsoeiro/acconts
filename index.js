@@ -2,10 +2,6 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 
 import fs from "fs";
-// const inquirer = require("inquirer");
-// const chalk = require("chalk");
-
-// const fs = require("fs");
 
 operation();
 
