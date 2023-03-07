@@ -1,15 +1,16 @@
 {
-  "name": "5_acconts",
-  "version": "1.0.0",
-  "description": "Projeto node que simula uma conta bancaria.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "rafael soeiro",
-  "license": "ISC",
-  "dependencies": {
-    "chalk": "^5.2.0",
-    "inquirer": "^9.1.4"
-  }
+    "name": "5_acconts",
+    "version": "1.0.0",
+    "description": "Projeto node que simula uma conta bancaria.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "rafael soeiro",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.2.0",
+        "inquirer": "^9.1.4"
+    }
 }
